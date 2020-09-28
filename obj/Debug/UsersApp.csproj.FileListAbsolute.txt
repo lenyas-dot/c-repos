@@ -1,0 +1,7 @@
+C:\Users\alexx\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.exe.config
+C:\Users\alexx\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.exe
+C:\Users\alexx\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.pdb
+C:\Users\alexx\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csprojAssemblyReference.cache
+C:\Users\alexx\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CoreCompileInputs.cache
+C:\Users\alexx\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.exe
+C:\Users\alexx\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.pdb
